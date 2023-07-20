@@ -1,0 +1,7 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/"
+  to = "https://github.com/mq1/CrabLauncher"
+  status = 307
